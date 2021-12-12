@@ -216,3 +216,32 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+/*REACH OUT STYLES START*/
+.contact {
+    text-align:center;
+    background:#024e76;
+}
+.contact-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align:top;
+    text-align:left;
+    margin: 30px 0 0 60px;
+    color: white;
+}
+.contact h2 {
+    color:#fce138;
+    border-bottom: 3px solid;
+    border-color: #39a6b2;
+}
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+    float:left;
+}
+.contact-info one {
+    float:left;
+}
+.contact-info {
+    overflow:auto;
+}
